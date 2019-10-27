@@ -1,0 +1,2 @@
+This is Ben's first git project. Once he finishes the Odin Project, he will look back
+on this and feel a wave of nostalgia.
